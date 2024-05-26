@@ -1,4 +1,4 @@
-# Lista de estudos - Modularização
+# Lista de estudos - Vetores
 Atividades de Introdução aos Algoritmos referente a Vetores.
 
 # ENUNCIADOS
